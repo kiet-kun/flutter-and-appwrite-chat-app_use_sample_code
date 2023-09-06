@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>673920754163-5r0nq3b8hdb13eb4801tcnvpnnhcqv18.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.673920754163-5r0nq3b8hdb13eb4801tcnvpnnhcqv18</string>
+	<key>API_KEY</key>
+	<string>AIzaSyApKEK7GtGZBxcLUrWJF2d83gWRj7GrKFo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>673920754163</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.chat.with.bisky.chatWithBisky</string>
+	<key>PROJECT_ID</key>
+	<string>bisky-chat</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bisky-chat.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:673920754163:ios:6403ec666880745ee7f286</string>
+</dict>
+</plist>
